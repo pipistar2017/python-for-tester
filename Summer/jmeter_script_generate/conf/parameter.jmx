@@ -1,0 +1,7 @@
+<collectionProp name="Arguments.arguments">
+    <elementProp name="para" elementType="Argument">
+        <stringProp name="Argument.name">para_name</stringProp>
+        <stringProp name="Argument.value">para_value</stringProp>
+        <stringProp name="Argument.metadata">=</stringProp>
+    </elementProp>
+</collectionProp>
